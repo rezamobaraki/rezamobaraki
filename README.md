@@ -1,8 +1,8 @@
 ### Hello there, I'm Rezoo! 👋
 
-[![Reza Mobaraki | Mr.Rezoo's | Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=resume&logoColor=white)](https://flowcv.com/resume/3tcgks0hub)
-[![Reza Mobaraki | Mr.Rezoo's | LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrezoo)
-[![Reza Mobaraki | Mr.Rezoo's | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MR_Rezoo)
+[![Reza Mobaraki | Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=resume&logoColor=white)](https://flowcv.com/resume/3tcgks0hub)
+[![Reza Mobaraki | LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezamobaraki)
+[![Reza Mobaraki | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MR_Rezoo)
 
 ---
 
@@ -30,15 +30,15 @@
 ---
 
 ### 🚀 Sample Projects:
-- [Crypto Exchange](https://github.com/MrRezoo/crypto-exchange): [**Python**, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
-- [Post Rating System](https://github.com/MrRezoo/post-rating-system): [Python, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
-- [Simplified GoodReads](https://github.com/MrRezoo/simple-goodreads): [Python, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
-- [Auth Service](https://github.com/MrRezoo/Django-Authentication-Service): [Python, Django, PostgreSQL, Docker]
+- [Crypto Exchange](https://github.com/rezamobaraki/crypto-exchange): [**Python**, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
+- [Post Rating System](https://github.com/rezamobaraki/post-rating-system): [Python, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
+- [Simplified GoodReads](https://github.com/rezamobaraki/simple-goodreads): [Python, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
+- [Auth Service](https://github.com/rezamobaraki/Django-Authentication-Service): [Python, Django, PostgreSQL, Docker]
 - [Linkak](https://github.com/jamedadi/linkak): [Python, Django]
-- [Online Shop](https://github.com/MrRezoo/django-online-shop): [Python, Django]
-- [Car App](https://github.com/MrRezoo/CarApp): [**Golang**, Gin, Gorm, PostgreSQL, Docker]
-- [Task Management](https://github.com/MrRezoo/TaskManagement): [Golang, Fiber, Gorm, PostgreSQL, Docker]
-- [Code Challenge](https://github.com/MrRezoo/code-challenge): [Golang, Python, Redis, Docker]
+- [Online Shop](https://github.com/rezamobaraki/django-online-shop): [Python, Django]
+- [Car App](https://github.com/rezamobaraki/CarApp): [**Golang**, Gin, Gorm, PostgreSQL, Docker]
+- [Task Management](https://github.com/rezamobaraki/TaskManagement): [Golang, Fiber, Gorm, PostgreSQL, Docker]
+- [Code Challenge](https://github.com/rezamobaraki/code-challenge): [Golang, Python, Redis, Docker]
 
 ---
 
@@ -51,8 +51,8 @@
 
 ### 🎓 Academic Projects:
 
-- [Booking.com Integration](https://github.com/MrRezoo/booking): [Python, Django, DjangoREST, PostgreSQL, Docker]
-- [PHP MVC Framework](https://github.com/MrRezoo/php-mvc-framework): [PHP, MySQL]
-- [Text Mining](https://github.com/MrRezoo/TextMining-NLP/): [Python, NLP]
-- [Company Accident Damage Estimate](https://github.com/MrRezoo/insurance-company/): [Python, Machine Learning]
+- [Booking.com Integration](https://github.com/rezamobaraki/booking): [Python, Django, DjangoREST, PostgreSQL, Docker]
+- [PHP MVC Framework](https://github.com/rezamobaraki/php-mvc-framework): [PHP, MySQL]
+- [Text Mining](https://github.com/rezamobaraki/TextMining-NLP/): [Python, NLP]
+- [Company Accident Damage Estimate](https://github.com/rezamobaraki/insurance-company/): [Python, Machine Learning]
 
