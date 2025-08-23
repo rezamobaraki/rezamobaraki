@@ -1,7 +1,7 @@
 ### Hello there, I'm Rezoo! 👋
 
 [![Reza Mobaraki | Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=resume&logoColor=white)](https://flowcv.com/resume/3tcgks0hub)
-[![Reza Mobaraki | LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezamobaraki)
+[![Reza Mobaraki | LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-mobaraki)
 [![Reza Mobaraki | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MR_Rezoo)
 
 ---
