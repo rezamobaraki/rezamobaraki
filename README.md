@@ -8,12 +8,12 @@
 
 ### 🤝 About Me:
 
-- 🔥 Software Engineer with +8 years of experience designing and building scalable backend systems using Python and PostgreSQL
-- 🏗️ Experienced in system architecture, microservices, and performance optimization for high-throughput applications
-- 🤝 Adept at collaborating with cross-functional teams to deliver solutions that improve user experience and meet business goals
-- ☁️ Skilled in cloud deployments and automation (CI/CD, containerized environments)
-- 🧑‍🏫 Enjoy mentoring junior engineers and sharing knowledge through reviews and technical sessions
-- 💳 Enthusiastic about Fintech
+- 🔥 Software Engineer with 8+ years building scalable backend systems with Python and PostgreSQL
+- 🏗️ Specialized in system architecture, microservices, and performance tuning
+- 💳 Fintech enthusiast focused on payments, ledgers, and risk systems
+- 🤝 Collaborative team player delivering user- and business-focused solutions
+- ☁️ Hands-on with cloud deployments and automation (CI/CD, containerized environments)
+- 🧑‍🏫 Enjoy mentoring, code reviews, and running technical knowledge-sharing sessions
 
 ---
 
