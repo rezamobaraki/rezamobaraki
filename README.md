@@ -8,7 +8,7 @@
 
 ### 🤝 About Me:
 
-- 🔥 Software Engineer with 8+ years building scalable backend systems with Python and PostgreSQL
+- 🔥 Software Engineer with 7+ years building scalable backend systems with Python and PostgreSQL
 - 🏗️ Specialized in system architecture, microservices, and performance tuning
 - 💳 Fintech enthusiast focused on payments, ledgers, and risk systems
 - 🤝 Collaborative team player delivering user- and business-focused solutions
