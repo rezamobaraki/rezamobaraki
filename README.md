@@ -35,8 +35,8 @@ I enjoy building backend systems that stay simple as they scale.
 ## 📌 Selected Projects
 
 - **[scheduled-webhook](https://github.com/rezamobaraki/scheduled-webhook)** — Reliable timer and webhook system with recovery sweeps, retry handling, and execution-safety design
-- **[crypto-exchange](https://github.com/rezamobaraki/crypto-exchange)** — Crypto exchange backend with wallet management, async order processing, and Redis-based order aggregation
+- **[crypto-exchange](https://github.com/rezamobaraki/crypto-exchange)** — Crypto exchange with wallet management, async order processing, and Redis-based order aggregation
 - **[post-rating-system](https://github.com/rezamobaraki/post-rating-system)** — Post rating backend with fraud detection, rate limiting, and asynchronous processing
 - **[simple-goodreads](https://github.com/rezamobaraki/simple-goodreads)** — Goodreads-inspired API with reviews, bookmarks, cached book statistics, and signal-driven stat updates
 - **[django-boilerplate](https://github.com/rezamobaraki/django-boilerplate)** — Reusable Django starter with PostgreSQL, Poetry, and a clean base setup for new projects
-- **[design-patterns-python](https://github.com/rezamobaraki/design-patterns-python)** — Python design patterns repository covering creational, structural, and behavioral patterns with examples
+- **[design-patterns-python](https://github.com/rezamobaraki/design-patterns-python)** — Python design patterns covering creational, structural, and behavioral patterns with examples
