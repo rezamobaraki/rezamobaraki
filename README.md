@@ -1,4 +1,4 @@
-<h3 align="center">Hey, I'm Reza 👋</h3>
+<h3 align="center">Hey, I'm Reza Mobaraki 👋</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reza-mobaraki">LinkedIn</a> •
@@ -42,6 +42,9 @@ I enjoy building backend systems that stay simple as they scale.
 
 - **[post-rating-system](https://github.com/rezamobaraki/post-rating-system)**  
   A Django and DRF project for rating posts, designed around clean backend structure.
+
+- **[simple-goodreads](https://github.com/rezamobaraki/simple-goodreads)**  
+  A book-focused web application inspired by Goodreads, built to explore backend design and application structure.
 
 - **[django-boilerplate](https://github.com/rezamobaraki/django-boilerplate)**  
   A reusable Django starter project with a clean base setup for backend applications.
