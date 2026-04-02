@@ -1,12 +1,6 @@
 <h3 align="center">Hey, I'm Reza Mobaraki 👋</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reza-mobaraki">LinkedIn</a> •
-  <a href="mailto:rezamobaraki.dev@gmail.com">Email</a> •
-  <a href="https://github.com/rezamobaraki">GitHub</a>
-</p>
-
-<p align="center">
   <strong>Backend Engineer</strong>
 </p>
 
