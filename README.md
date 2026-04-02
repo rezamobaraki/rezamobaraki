@@ -34,9 +34,9 @@ I enjoy building backend systems that stay simple as they scale.
 
 ## 📌 Selected Projects
 
-- **[scheduled-webhook](https://github.com/rezamobaraki/scheduled-webhook)** — Production-style timer and webhook system focused on reliability, clean architecture, and execution correctness
-- **[crypto-exchange](https://github.com/rezamobaraki/crypto-exchange)** — Backend-focused crypto exchange project built with Django, Celery, PostgreSQL, Redis, and Docker
-- **[post-rating-system](https://github.com/rezamobaraki/post-rating-system)** — Django and DRF project for rating posts with a clean backend structure
-- **[simple-goodreads](https://github.com/rezamobaraki/simple-goodreads)** — Book-focused web application inspired by Goodreads, built to explore backend design and application structure
-- **[django-boilerplate](https://github.com/rezamobaraki/django-boilerplate)** — Reusable Django starter project with a clean base setup for backend applications
-- **[design-patterns-python](https://github.com/rezamobaraki/design-patterns-python)** — Practical design pattern implementations in Python shared as part of learning in public
+- **[scheduled-webhook](https://github.com/rezamobaraki/scheduled-webhook)** — Reliable timer and webhook system with recovery sweeps, retry handling, and execution-safety design
+- **[crypto-exchange](https://github.com/rezamobaraki/crypto-exchange)** — Crypto exchange backend with wallet management, async order processing, and Redis-based order aggregation
+- **[post-rating-system](https://github.com/rezamobaraki/post-rating-system)** — Post rating backend with fraud detection, rate limiting, and asynchronous processing
+- **[simple-goodreads](https://github.com/rezamobaraki/simple-goodreads)** — Goodreads-inspired API with reviews, bookmarks, cached book statistics, and signal-driven stat updates
+- **[django-boilerplate](https://github.com/rezamobaraki/django-boilerplate)** — Reusable Django starter with PostgreSQL, Poetry, and a clean base setup for new projects
+- **[design-patterns-python](https://github.com/rezamobaraki/design-patterns-python)** — Python design patterns repository covering creational, structural, and behavioral patterns with examples
