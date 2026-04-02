@@ -34,20 +34,9 @@ I enjoy building backend systems that stay simple as they scale.
 
 ## 📌 Selected Projects
 
-- **[scheduled-webhook](https://github.com/rezamobaraki/scheduled-webhook)**  
-  A production-style timer and webhook system focused on reliability, clean architecture, and execution correctness.
-
-- **[crypto-exchange](https://github.com/rezamobaraki/crypto-exchange)**  
-  A backend-focused crypto exchange project with Django, Celery, PostgreSQL, Redis, and Docker.
-
-- **[post-rating-system](https://github.com/rezamobaraki/post-rating-system)**  
-  A Django and DRF project for rating posts, designed around clean backend structure.
-
-- **[simple-goodreads](https://github.com/rezamobaraki/simple-goodreads)**  
-  A book-focused web application inspired by Goodreads, built to explore backend design and application structure.
-
-- **[django-boilerplate](https://github.com/rezamobaraki/django-boilerplate)**  
-  A reusable Django starter project with a clean base setup for backend applications.
-
-- **[design-patterns-python](https://github.com/rezamobaraki/design-patterns-python)**  
-  Practical design pattern implementations in Python as part of learning in public.
+- **[scheduled-webhook](https://github.com/rezamobaraki/scheduled-webhook)** — Production-style timer and webhook system focused on reliability, clean architecture, and execution correctness
+- **[crypto-exchange](https://github.com/rezamobaraki/crypto-exchange)** — Backend-focused crypto exchange project built with Django, Celery, PostgreSQL, Redis, and Docker
+- **[post-rating-system](https://github.com/rezamobaraki/post-rating-system)** — Django and DRF project for rating posts with a clean backend structure
+- **[simple-goodreads](https://github.com/rezamobaraki/simple-goodreads)** — Book-focused web application inspired by Goodreads, built to explore backend design and application structure
+- **[django-boilerplate](https://github.com/rezamobaraki/django-boilerplate)** — Reusable Django starter project with a clean base setup for backend applications
+- **[design-patterns-python](https://github.com/rezamobaraki/design-patterns-python)** — Practical design pattern implementations in Python shared as part of learning in public
