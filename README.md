@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Making an impact through tech by turning complex ideas into scalable, reliable systems.
+  Making an impact by turning complex ideas into scalable, reliable systems.
 </p>
 
 <p align="center">
